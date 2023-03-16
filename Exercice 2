@@ -11,8 +11,7 @@ SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
 #Définition de la liste de couleurs
-COLORS = [arcade.color.BLUE, arcade.color.GREEN,
-         arcade.color.FRENCH_ROSE, arcade.color.GOLDEN_POPPY]
+COLORS = [arcade.color.BLUE, arcade.color.GREEN, arcade.color.FRENCH_ROSE, arcade.color.GOLDEN_POPPY, arcade.color.AFRICAN_VIOLET, arcade.color.DIAMOND, arcade.color.FAWN, arcade.color.LION, arcade.color.AMARANTH, arcade.color.HOOKER_GREEN]
 
 #Définition de la classe des cercles (DataClass)
 class Cercle():
